@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Proxima Nova Rg';
+    src: url('../fonts/ProximaNova-Regular.woff2') format('woff2'),
+        url('../fonts/ProximaNova-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Font Awesome 6 Brands';
+    src: url('../fonts/FontAwesome6Brands-Regular.woff2') format('woff2'),
+        url('../fonts/FontAwesome6Brands-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Font Awesome 6 Free Solid';
+    src: url('../fonts/FontAwesome6Free-Solid.woff2') format('woff2'),
+        url('../fonts/FontAwesome6Free-Solid.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Th';
+    src: url('../fonts/ProximaNovaT-Thin.woff2') format('woff2'),
+        url('../fonts/ProximaNovaT-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Forever Brush Script';
+    src: url('../fonts/ForeverBrushScript.woff2') format('woff2'),
+        url('../fonts/ForeverBrushScript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
